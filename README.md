@@ -1,4 +1,4 @@
-# [Harry Barnish](harrybarnish.co.uk)
+# [Harry Barnish](https://harrybarnish.co.uk)
 
 ![](https://raw.githubusercontent.com/HarryB05/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/HarryB05/github-stats/master/generated/overview.svg#gh-light-mode-only)
